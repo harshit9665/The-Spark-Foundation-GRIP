@@ -34,6 +34,17 @@ To see the implementation check this link - https://github.com/harshit9665/K-Mea
 
 To see the implementation click on this link - https://github.com/harshit9665/Decision-Tree-Classifier--Iris-Dataset
 
+
+## Task # 5 - To explore Business Analytics
+
+    Perform ‘Exploratory Data Analysis’ on the provided dataset SampleSuperstore’
+    You are the business owner of the retail firm and want to see how your company is performing. You are interested in finding
+    out the weak areas where you can work to make more profit. What all business problems you can derive by looking into the
+    data? You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
+    
+To see the implementation click on this link - https://github.com/harshit9665/Exploratory-Data-Analysis-on-SuperStore-Data
+
+
 # Authors
 
 * **Harshit Singh**  - [Github](https://github.com/harshit9665)
